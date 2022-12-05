@@ -3,8 +3,8 @@ const fs = require('fs');
 fs.readFile('input.txt', 'utf8', (err, data) => {
     if (err) return;
 
-    let inputArr = data.split('/r/n');
-
+    let inputArr = data.split('\r\n');
+    
     inputArr.forEach((item, index) => {
         if (!index) {
             countCalories(inputArr.slice(0, inputArr.indexOf('')));
