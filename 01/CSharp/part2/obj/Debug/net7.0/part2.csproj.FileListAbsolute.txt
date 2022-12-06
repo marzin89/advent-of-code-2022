@@ -1,0 +1,15 @@
+C:\Users\Marco\Documents\Programmering\AdventOfCode\01\CSharp\part2\obj\Debug\net7.0\part2.csproj.AssemblyReference.cache
+C:\Users\Marco\Documents\Programmering\AdventOfCode\01\CSharp\part2\obj\Debug\net7.0\part2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marco\Documents\Programmering\AdventOfCode\01\CSharp\part2\obj\Debug\net7.0\part2.AssemblyInfoInputs.cache
+C:\Users\Marco\Documents\Programmering\AdventOfCode\01\CSharp\part2\obj\Debug\net7.0\part2.AssemblyInfo.cs
+C:\Users\Marco\Documents\Programmering\AdventOfCode\01\CSharp\part2\obj\Debug\net7.0\part2.csproj.CoreCompileInputs.cache
+C:\Users\Marco\Documents\Programmering\AdventOfCode\01\CSharp\part2\bin\Debug\net7.0\part2.exe
+C:\Users\Marco\Documents\Programmering\AdventOfCode\01\CSharp\part2\bin\Debug\net7.0\part2.deps.json
+C:\Users\Marco\Documents\Programmering\AdventOfCode\01\CSharp\part2\bin\Debug\net7.0\part2.runtimeconfig.json
+C:\Users\Marco\Documents\Programmering\AdventOfCode\01\CSharp\part2\bin\Debug\net7.0\part2.dll
+C:\Users\Marco\Documents\Programmering\AdventOfCode\01\CSharp\part2\bin\Debug\net7.0\part2.pdb
+C:\Users\Marco\Documents\Programmering\AdventOfCode\01\CSharp\part2\obj\Debug\net7.0\part2.dll
+C:\Users\Marco\Documents\Programmering\AdventOfCode\01\CSharp\part2\obj\Debug\net7.0\refint\part2.dll
+C:\Users\Marco\Documents\Programmering\AdventOfCode\01\CSharp\part2\obj\Debug\net7.0\part2.pdb
+C:\Users\Marco\Documents\Programmering\AdventOfCode\01\CSharp\part2\obj\Debug\net7.0\part2.genruntimeconfig.cache
+C:\Users\Marco\Documents\Programmering\AdventOfCode\01\CSharp\part2\obj\Debug\net7.0\ref\part2.dll

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hDykFszt9+m/Vxl6T5YLnfhxD2U5W1jjzocePslx4opE8Qabsu/uqqcxIY0IuBoc640gXR4VMQ2055dkacexbQ==",
+  "dgSpecHash": "UUtC5X2DAkHlBvOQdd/lwdR92ej+LxSVOCV9OkkpN7dorfprQE48pPZ7g07y19rBHlrFaDATRMIbmWcQfV3IBA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Marco\\Documents\\Programmering\\AdventOfCode\\01\\CSharp\\C#.csproj",
+  "projectFilePath": "C:\\Users\\Marco\\Documents\\Programmering\\AdventOfCode\\01\\CSharp\\part1\\C#.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
