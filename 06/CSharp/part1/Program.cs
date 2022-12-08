@@ -14,8 +14,6 @@ namespace CSharp
 
             for (int i = 0; i < sequence.Length; i++)
             {
-                if (i == sequence.Length - 3) break;
-
                 if (i >= 4)
                 {
                     string previousFour = sequence.Substring(i - 4, 4);
